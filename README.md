@@ -2,7 +2,6 @@
 <b><a href="https://www.kaggle.com/aungpyaeap/fish-market">Fish Market</a></b>
 
 </br>
-</br>
 
 ### Social Media : 
 <a href="https://www.facebook.com/AnggaWidiarta18/"><img align="left" alt="facebook" width="25px" height="25px" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>
