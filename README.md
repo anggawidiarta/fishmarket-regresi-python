@@ -1,10 +1,9 @@
 ### Social Media : 
-<a href="https://www.facebook.com/AnggaWidiarta18/"><img align="left" alt="facebook" width="75px" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>
-<a href="https://steamcommunity.com/id/strukganja/"><img align="left" alt="steam" width="75px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlazGIQmHau7aLiOT9hq6Jt42crXAx91Jv69_O7FcNm_FPmiqlAZQ5Nj3cBxAD4fAN9lY&usqp=CAU"></a>
+<a href="https://www.facebook.com/AnggaWidiarta18/"><img align="left" alt="facebook" width="25px" height="25px" src="https://www.facebook.com/images/fb_icon_325x325.png"></a>
+<a href="https://steamcommunity.com/id/strukganja/"><img align="left" alt="steam" width="25px" height="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlazGIQmHau7aLiOT9hq6Jt42crXAx91Jv69_O7FcNm_FPmiqlAZQ5Nj3cBxAD4fAN9lY&usqp=CAU"></a>
 
 
-
-
+</br>
 </br>
 
 ### Language & Tools : 
